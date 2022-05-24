@@ -4,7 +4,7 @@ setup(
     name='qualys',
     packages=['qualys'],
     description='Hello world enterprise edition',
-    version='0.2',
+    version='1.2',
     url='https://github.com/andreimuntean7/test_python_repo/qualys',
     author='Andrei Muntean',
     author_email='andreimuntean0795@gmail.com',
